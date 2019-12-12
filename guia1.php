@@ -16,10 +16,8 @@
                 <div class="col col-lg-6">   
                 <h1>GUIA No. 1</h1>
                 </div>
-                <div class="col col-lg-2">
-                    <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col col-lg-4">
                             <a href="index.php" class="btn btn-primary">Ir Inicio</a>
-                    </div>
                 </div>
                 </div>
             </div>

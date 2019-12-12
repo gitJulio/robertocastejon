@@ -56,7 +56,7 @@
       <p class="lead">Lic. Ricardo Lagos.</p>
       <p class="lead">Materia: Computación 2.</p>
       <p class="lead">Villanueva, Cortes 2019</p>
-      <a href="#" class="btn btn-primary btn-lg">Call to action!</a>
+      <!-- <a href="#" class="btn btn-primary btn-lg">Call to action!</a> -->
     </header>
 
     <!-- Page Features -->
@@ -64,7 +64,7 @@
 
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card h-100">
-          <img class="card-img-top" src="http://placehold.it/500x325" alt="">
+          <img class="card-img-top" src="img/guia1.png" alt="">
           <div class="card-body">
             <h4 class="card-title">Card title</h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>

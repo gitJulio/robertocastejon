@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>
-            Guia 1
+            Guia 5
         </title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
@@ -86,11 +86,12 @@
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>3. ¿Qué tipos de datos se pueden manejar en Excel?<h5>
+                    <h5>3. ¿Según la normalización de una base de datos?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Textos, valores numéricos y formulas
+                R//Es un proceso que consiste en designar y aplicar una serie de reglas a las relaciones obtenidas tras el paso del modelo entidad- relación al modelo relacional, con objeto de minimizar la
+                 redundancia de datos, facilitando su gestión posterior.
                 </p>
                 
                 </div>
@@ -98,52 +99,55 @@
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>4. ¿Cuáles son los pasos para mover o copiar rangos de textos? Puede indicar cualquiera de los medios.<h5>
+                    <h5>4. ¿Cuáles son los 3 conceptos que incorpora una base de datos orientada a objetos?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// 1 Seleccionar el rango que dese mover. 
-                2 Llamar al menú contextual (Clic derecho) cortar o clic en el botón cortar o presionar
-                 la tecla ctrl. tx observe que al rededor del rango seleccionado aparece un borde móvil punteado. Esto indica que ese rango va a ser movido.
-                 3 Seleccionar una celda destino donde se desea que el rango sea movido. 4 Presionar entre
+                R// Son:
+                </p>
+                <ul>
+                    <li>Encapsulación</li>
+                    <li>Herencia</li>
+                    <li>Polimorfismo</li>
+                </ul>
+                </div>
+            </div>
+
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-12">   
+                    <h5>5. ¿Qué es un modelo de entidad – Relación?<h5>
+                </div>
+                <div class="col col-lg-12">
+                <p>
+                R//Es una herramienta para el modelo de datos la cu7al permite representar entidades de una base de datos.
                 </p>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>5. ¿Cuándo se debe usar funciones avanzadas en Excel?<h5>
+                    <h5>6. Enumere y explique cuáles son las relaciones que pueden existir entre tablas.<h5>
                 </div>
                 <div class="col col-lg-12">
-                <p>
-                R// Cuando se necesite de cualquier cálculo determinado de cualquier índole, pues se escribe la respectiva función seguida de sus argumentos.
-                </p>
-                </div>
-            </div>
-
-            <div class="row justify-content-md-center">
-                <div class="col col-lg-12">   
-                    <h5>6. Desarrolle un ejercicio por cada una de las funciones: Suma, Max, Min, promedio<h5>
-                </div>
-                <div class="col col-lg-12">
-                <p>
+                <p>R//Son:</p>
                     <ul>
-                        <li>=Suma (B4: B11)</li>
-                        <li>= Max (B4: B11)</li>
-                        <li>= Min (B4: B11)</li>
-                        <li>= PROMEDIO (B4: B11)</li>
+                        <li>Relación de uno a uno: Por cada registro principal (tabla que contiene la clave principal puede existir un solo 
+                        registro en la tabla relacionada tabla que contiene la clave externa.</li>
+                        <li>Relación de uno a varios: Por cada registro de la tabla principal tabla de la clave principal o
+                         lado unos de la relación pueden existir muchos i8nfinitos registros en la tabla relacionada.</li>
+                        <li>Relación de varios o varios: debe tener claro las llaves primarias y una tabla de unión para que se produzca la relación de varios.</li>
+                        <li>Relación indeterminada: Se puede producir por diversas causas.</li>
                     </ul>
-                </p>
                 </div>
             </div>
                         <!--aaaaaaaaaaaaaaaaaaaaaaaaaaa-->
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>7. ¿Qué es ordenamiento en Excel?<h5>
+                    <h5>7. ¿Qué es un SGBD<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Es ordenar datos de un rango o tabla
+                R// Es una colección de programas cuyo objetivo es servir de interfaz entre la base de datos, el cual el usuario y las aplicaciones.
                 </p>
                 
                 </div>
@@ -151,11 +155,11 @@
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>8. ¿Parar que sirve la función subtotales?<h5>
+                    <h5>8. ¿Qué es SQL?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Nos ayuda a calcular el subtotal de una lista de valores.
+                R// Es un lenguaje de datos normalizados que utilizan los diferentes motores de bases de datos para efectuar determinadas operaciones sobre los datos o sobre su estructura.
                 </p>
                 </div>
             </div>
@@ -163,58 +167,60 @@
             
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>9. ¿Qué es una tabla dinámica en Excel?<h5>
+                    <h5>9. Enumere y explique los tipos de comandos que existen en SQL, enumere cada comando de cada tipo.<h5>
+                </div>
+                <div class="col col-lg-12">
+                    <ol>
+                        <li>Los DLL: Permite crear y definir cada base de datos campos e índice.</li>
+                        <li>Los DML: Permite generar consultas para ordenar, filtrar y extraer datos de la base de datos.</li>
+                    </ol>
+                </div>
+            </div>
+
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-12">   
+                    <h5>10. ¿Qué es un motor de base de datos?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Es un tipo de tabla que nos permite decidir con facilidad los campos que aparecen como columnas, como filas y 
-                como valores de la tabla y podemos hacer modificaciones a dicha definición en el momento que lo deseamos.
+                R//Es un servicio principal o para almenar, y procesar y proteger los datos. El motor de base de datos proporciona acceso controlado y procesamiento de transacciones rápida para cumplir con 
+                los requisitos de las aplicaciones consumidoras d datos más exigentes de su empresa.
                 </p>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5> 10. ¿Cuál es la diferencia entre un gráfico dinámico y uno convencional?<h5>
+                    <h5> 11. Enumere los principales motores de base datos del mercado.<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R//Grafico dinámico: es el que está basado en los datos de una tabla dinámica y se ajusta automáticamente al aplicar cualquier filtro sobre la información.
-                Grafico convención: es el que posee un panel de filtros
+                R// Son: Oracle, IBM, DB2 Microsoft +SQL serve Teradata SAP Sybase MYSQL.
+                </p>
+                </div>
+            </div>
+
+
+
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-12">   
+                    <h5>12. ¿Qué es Accesos?, enumere los tipos de datos que soporta<h5>
+                </div>
+                <div class="col col-lg-12">
+                <p>
+                R// Es un programa que interactúa de manera clara y sencilla con otros softwares de Microsoft también muy utilizado como puede ser Excel e incluso Word o PowerPoint.
+                Datos adjuntos, auto numeración Moneda, fecha y hora Hipervínculo, numero Objeto, texto y si/no
                 </p>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>11. ¿Para qué sirve la validación en Excel?<h5>
+                    <h5>13. ¿De qué está compuesta una tabla?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Es un servicio que provee a los usuarios de internet un sistema para poder almacenar información, imágenes, videos, o cualquier contenido accesible vía web.
-                </p>
-                </div>
-            </div>
-
-            <div class="row justify-content-md-center">
-                <div class="col col-lg-12">   
-                    <h5>12. ¿Para qué sirven los macros en Excel?<h5>
-                </div>
-                <div class="col col-lg-12">
-                <p>
-                R// Es la que nos ayuda a automatizar aquellas tareas que hacemos repetidamente. Una macro es una serie de instituciones que son
-                 guardadas dentro de un archivo en excel para poder ser ejecutados cuando lo necesitamos.
-                </p>
-                </div>
-            </div>
-
-            <div class="row justify-content-md-center">
-                <div class="col col-lg-12">   
-                    <h5>13. ¿Cuál es el método abreviado para ejecutar una macro en Excel?<h5>
-                </div>
-                <div class="col col-lg-12">
-                <p>
-                R// Es la permite ejecutar la macro en cualquier momento es ctrl +tecla.
+                R// De columnas, celdas y filas
                 </p>
                 </div>
             </div>

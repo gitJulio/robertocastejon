@@ -25,12 +25,24 @@
                 </p>
                 </div>
             </div>
+
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-12">   
+                    <h5>2. ¿Cuál es el principal objetivo por el cual nació el internet?<h5>
+                </div>
+                <div class="col col-lg-12">
+                <p>
+                R// Es la comunicación: que permite al ser humano una comunicación sin barrera, que no tenga en cuenta el, espacio, ni frontera,
+                 distancia, sociedades.
+                </p>
+                </div>
+            </div>
+
         </div>        
 
-        2. ¿Cuál es el principal objetivo por el cual nació el internet?
+        
 
-        R// Es la comunicación: que permite al ser humano una comunicación sin barrera, que no tenga en cuenta el, espacio, ni frontera, distancia, sociedades.
-
+        
 
         3. Enumere las ventajas y desventajas al usar el internet.
 

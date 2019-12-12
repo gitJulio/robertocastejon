@@ -72,7 +72,7 @@
                     <li>Sistema de colaboración empresarial</li>
                     <li>Sistema de información de gestió</li>
                     <li>Sistema de apoyo a la toma de decisiones</li>
-                    <li>Sistema de información ejecutiv</li>
+                    <li>Sistema de información ejecutiva</li>
                 </ul>
                 </div>
             </div>

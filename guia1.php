@@ -55,13 +55,11 @@
                     <li>6. Es posible la creación y descarga de software libre, por sus herramientas colaborativas.</li>
                     <li>7. Es posible encontrar soportes técnicos de todas las clases sobre algunas herramientas o procesos.</li>
                 </ul>
-
-        Desventaja:
-
-        8. Así como es fácil encontrar información buena, es posible encontrar de la misma forma información mala, desagradable (pornografía, violencia explícita, terrorismo) afecta especialmente a los menores.
-
-        9. Te genera una gran dependencia o vicio de internet, descuidándote de muchas cosas personales o laborales.
-                </p>
+                 <p> Desventaja:</p>
+                 <ul>
+                    <li> 8. Así como es fácil encontrar información buena, es posible encontrar de la misma forma información mala, desagradable (pornografía, violencia explícita, terrorismo) afecta especialmente a los menores.</li>
+                    <li>     9. Te genera una gran dependencia o vicio de internet, descuidándote de muchas cosas personales o laborales.</li>
+                </ul>
                 </div>
             </div>
 

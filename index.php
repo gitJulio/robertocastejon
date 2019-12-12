@@ -89,7 +89,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div> -->
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Ver Guia</a>
+            <a href="guia2.php" class="btn btn-primary">Ver Guia</a>
           </div>
         </div>
       </div>
@@ -104,7 +104,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div> -->
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Ver Guia</a>
+            <a href="guia3.php" class="btn btn-primary">Ver Guia</a>
           </div>
         </div>
       </div>
@@ -118,7 +118,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div> -->
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Ver Guia</a>
+            <a href="guia4.php" class="btn btn-primary">Ver Guia</a>
           </div>
         </div>
       </div>
@@ -133,7 +133,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div> -->
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Ver Guia</a>
+            <a href="guia5.php" class="btn btn-primary">Ver Guia</a>
           </div>
         </div>
       </div>
@@ -147,7 +147,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div> -->
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Ver Guia</a>
+            <a href="guia6.php" class="btn btn-primary">Ver Guia</a>
           </div>
         </div>
       </div>

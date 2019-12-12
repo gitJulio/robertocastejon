@@ -15,22 +15,17 @@
         
         <div class="container">
             <div class="row justify-content-md-center">
-                <div class="col col-lg-2">
-                1 of 3
+                <div class="col col-lg-12">   
+                    <h2>¿Explique la evolución del internet?<h2>
                 </div>
-                <div class="col-md-auto">
-                Variable width content
-                </div>
-                <div class="col col-lg-2">
-                3 of 3
+                <div class="col col-lg-12">
+                <p>
+                 R// Todo comenzó a los finales de los años 50 cuando se creó ARPA (agencia de proyecto de investigación avanzada) en el seno del departamento de defensa de
+                 EEUU, Mas tarde en 1966 Lawrence G. Roberts se trasladó a ARPA para desarrollar el concepto de red de ordenadores, el ARPANET.
+                </p>
                 </div>
             </div>
-        </div>
-
-        <h2>¿Explique la evolución del internet?<h2>
-
-        R// Todo comenzó a los finales de los años 50 cuando se creó ARPA (agencia de proyecto de investigación avanzada) en el seno del departamento de defensa de EEUU, Mas tarde en 1966 Lawrence G. Roberts se trasladó a ARPA para desarrollar el concepto de red de ordenadores, el ARPANET.
-
+        </div>        
 
         2. ¿Cuál es el principal objetivo por el cual nació el internet?
 

@@ -212,17 +212,6 @@
             </div>
 
             
-            <div class="row justify-content-md-center">
-                <div class="col col-lg-12">   
-                    <h5>13. ¿De qué está compuesto un dominio?<h5>
-                </div>
-                <div class="col col-lg-12">
-                <p>
-                R// Es el nombre que identifica un sitio web, cada dominio tiene qué único en internet ejemplo: www.masadelant.com
-                </p>
-                </div>
-            </div>
-
             
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   

@@ -16,7 +16,7 @@
         <div class="container">
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h2>¿Explique la evolución del internet?<h2>
+                    <h5>1. ¿Explique la evolución del internet?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>

@@ -67,10 +67,17 @@
                 <p>
                 <ul>
                     <li>
-                        <p>Según la variable de la base de datos</p>
+                        Según la variable de la base de datos
                         <ol>
                             <li>Base de datos estáticas</li>
                             <li>Base de datos dinámicas</li>
+                        </ol>
+                    </li>
+                    <li>
+                        Según el contenido
+                        <ol>
+                            <li>Base de datos bibliográficas</li>
+                            <li>Base de datos de textos completo</li>
                         </ol>
                     </li>
                 </ul>

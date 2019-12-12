@@ -18,7 +18,7 @@
                 </div>
                 <div class="col col-lg-2">
                     <div class="col-lg-3 col-md-6 mb-4">
-                            <a href="#" class="btn btn-primary">Ir Inicio</a>
+                            <a href="index.php" class="btn btn-primary">Ir Inicio</a>
                     </div>
                 </div>
                 </div>

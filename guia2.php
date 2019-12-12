@@ -38,9 +38,12 @@
 
         <br>
 
-        <center>
-            <h1>GUIA No. 1</h1>
-        </center>
+
+          <center>
+          <h1>GUIA No. 2</h1>
+          </center>
+               
+
 
         
         <div class="container">

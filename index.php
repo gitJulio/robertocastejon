@@ -74,7 +74,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div> -->
           <div class="card-footer">
-            <a href="guia1.php" class="btn btn-primary">Ver Guia</a>
+            <a href="guia1.php" class="btn btn-primary"  target="_blank">Ver Guia</a>
           </div>
         </div>
       </div>

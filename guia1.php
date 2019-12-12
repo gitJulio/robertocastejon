@@ -9,9 +9,30 @@
     </head>
     <body>
         <center>
-        <h1>GUIA No. 1</h1>
+        
         </center>
         <br>
+
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-6">   
+                <h1>GUIA No. 1</h1>
+                </div>
+                <div class="col col-lg-6">
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="card">
+                    <img class="card-img-top" src="img/guia2.png" alt="">
+                    <!-- <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+                    </div> -->
+                    <div class="card-footer">
+                        <a href="#" class="btn btn-primary">Ir Inicio</a>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
         
         <div class="container">
             <div class="row justify-content-md-center">

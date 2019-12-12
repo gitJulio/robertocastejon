@@ -38,35 +38,42 @@
                 </div>
             </div>
 
-        </div>        
-
-        
-
-        
-
-        3. Enumere las ventajas y desventajas al usar el internet.
-
-        R// Ventajas:
-
-        1. Hacer la comunicación ms sencilla.
-
-        2. Es posible conocer e interactuar con muchas personas todas partes del mundo.
-
-        3. La búsqueda de información se vuelve mucho más sencilla, sin tener que ir forzadamente a las bibliotecas tradicionales.
-
-        4. Es posible encontrar muchos puntos de vistas diferentes
-
-        5. Sobre algunas noticias.
-
-        6. Es posible la creación y descarga de software libre, por sus herramientas colaborativas.
-
-        7. Es posible encontrar soportes técnicos de todas las clases sobre algunas herramientas o procesos.
+            <div class="row justify-content-md-center">
+                <div class="col col-lg-12">   
+                    <h5>3. Enumere las ventajas y desventajas al usar el internet.<h5>
+                </div>
+                <div class="col col-lg-12">
+                <p>
+                 R// Ventajas:
+                </p>
+                <ul>
+                    <li>1. Hacer la comunicación ms sencilla.</li>
+                    <li>2. Es posible conocer e interactuar con muchas personas todas partes del mundo.</li>
+                    <li>3. La búsqueda de información se vuelve mucho más sencilla, sin tener que ir forzadamente a las bibliotecas tradicionales.</li>
+                    <li>4. Es posible encontrar muchos puntos de vistas diferentes</li>
+                    <li>5. Sobre algunas noticias.</li>
+                    <li>6. Es posible la creación y descarga de software libre, por sus herramientas colaborativas.</li>
+                    <li>7. Es posible encontrar soportes técnicos de todas las clases sobre algunas herramientas o procesos.</li>
+                </ul>
 
         Desventaja:
 
         8. Así como es fácil encontrar información buena, es posible encontrar de la misma forma información mala, desagradable (pornografía, violencia explícita, terrorismo) afecta especialmente a los menores.
 
         9. Te genera una gran dependencia o vicio de internet, descuidándote de muchas cosas personales o laborales.
+                </p>
+                </div>
+            </div>
+
+        </div>        
+
+        
+
+        
+
+        
+
+        
 
 
         4. ¿Qué cantidad de usuario posee honduras al2015?

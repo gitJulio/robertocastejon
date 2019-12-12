@@ -40,7 +40,7 @@
 
 
           <center>
-          <h1>GUIA No. 3</h1>
+          <h1>GUIA No. 4</h1>
           </center>
                
 
@@ -49,35 +49,40 @@
         <div class="container">
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>1. ¿Qué es HTML?<h5>
+                    <h5>1. ¿Qué son los documentos maestros?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Es un lenguaje con el que se define el contenido de las páginas web, básicamente se trata de un
-                 conjunto de etiquetas que sirven para definir el texto y otros elementos, como imágenes, listas videos.
+                R// Es aquel que puede contener lo mismo que un documento, pero con la capacidad de contener enlaces a otros
+                 archivos llamados subdocumentos, los cuales pueden tratarse de forma independiente, de manera normal.
                 </p>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>2. ¿Qué una página web?<h5>
+                    <h5>2. ¿Cuáles son las ventajas de usar documentos maestros?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Es un documento o información electrónica capaz de contener textos, sonidos, 
-                videos, programas, enlaces, imágenes, y muchas otras cosas, adaptadas para la llamada Word wide (w.w.w).
+                R//Ventajas:
                 </p>
+                <ul>
+                    <li>Desplazarse rápidamente a una ubicación dentro de varios documentos.</li>
+                    <li>Reorganizar varios documentos moviendo las partidas.</li>
+                    <li>Ver los últimos cambios a varios documentos sin tener que abrir una serie de archivos individúale.</li>
+                    <li>Crear diferentes arreglos de subdocumentos: ejemplo ordenados, por autor o por capitulo.</li>
+                </ul>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>3. Describa los tipos de páginas web existente<h5>
+                    <h5>3. ¿Qué tipos de datos se pueden manejar en Excel?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Tipos pdf, doc. ppt, xls, txt
+                R// Textos, valores numéricos y formulas
                 </p>
                 
                 </div>
@@ -85,63 +90,64 @@
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>4. ¿Cuál es la función del JavaScript?<h5>
+                    <h5>4. ¿Cuáles son los pasos para mover o copiar rangos de textos? Puede indicar cualquiera de los medios.<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R//Son las soluciones de todos los problemas tanto en el JavaScript como el resto de3l lenguaje de programación.
+                R// 1 Seleccionar el rango que dese mover. 
+                2 Llamar al menú contextual (Clic derecho) cortar o clic en el botón cortar o presionar
+                 la tecla ctrl. tx observe que al rededor del rango seleccionado aparece un borde móvil punteado. Esto indica que ese rango va a ser movido.
+                 3 Seleccionar una celda destino donde se desea que el rango sea movido. 4 Presionar entre
                 </p>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>5. ¿Cuáles son los componentes esenciales de un sistema información?<h5>
+                    <h5>5. ¿Cuándo se debe usar funciones avanzadas en Excel?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R//Es un lenguaje que describe la presentación de los documentos estructurados, en hojas de estilo para diferentes métodos de interpretación.
+                R// Cuando se necesite de cualquier cálculo determinado de cualquier índole, pues se escribe la respectiva función seguida de sus argumentos.
                 </p>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>6. ¿Cuáles son los sistemas de gestión de contenidos? Enumere algunos de ellos<h5>
+                    <h5>6. Desarrolle un ejercicio por cada una de las funciones: Suma, Max, Min, promedio<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R//Es un programa de informáticos que permite crear un entorno de trabajo para la creación y administración de contenidos 
-                principalmente en páginas web, por partes de los administradores, editores participantes y usuarios.
+                    <ul>
+                        <li>=Suma (B4: B11)</li>
+                        <li>= Max (B4: B11)</li>
+                        <li>= Min (B4: B11)</li>
+                        <li>= PROMEDIO (B4: B11)</li>
+                    </ul>
                 </p>
                 </div>
             </div>
                         <!--aaaaaaaaaaaaaaaaaaaaaaaaaaa-->
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>7. Enumere las funciones de los CMS<h5>
+                    <h5>7. ¿Qué es ordenamiento en Excel?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R//son:
+                R// Es ordenar datos de un rango o tabla
                 </p>
-                <ul>
-                    <li>Creación de contenidos</li>
-                    <li>Gestión de contenidos</li>
-                    <li>Publicación de contenidos</li>
-                    <li>Presentación de contenidos</li>
-                </ul>
+                
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>8. ¿Qué la diagramación de páginas web?<h5>
+                    <h5>8. ¿Parar que sirve la función subtotales?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Es un oficio de diseño editorial que se encarga de organizar en un espacio, contenidos escritos, visuales y en algunos casos audiovisuales 
-                (multimedios) en medios impresos y electrónicos como libros, diarios y revistas.
+                R// Nos ayuda a calcular el subtotal de una lista de valores.
                 </p>
                 </div>
             </div>
@@ -149,33 +155,31 @@
             
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>9. ¿Qué es un servidor web?<h5>
+                    <h5>9. ¿Qué es una tabla dinámica en Excel?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R//es un programa informático, que procesa una aplicación del lado del servidor.
+                R// Es un tipo de tabla que nos permite decidir con facilidad los campos que aparecen como columnas, como filas y 
+                como valores de la tabla y podemos hacer modificaciones a dicha definición en el momento que lo deseamos.
                 </p>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5> 10. ¿Qué protocolo se usan para hacer consultas web?<h5>
+                    <h5> 10. ¿Cuál es la diferencia entre un gráfico dinámico y uno convencional?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R//son:
+                R//Grafico dinámico: es el que está basado en los datos de una tabla dinámica y se ajusta automáticamente al aplicar cualquier filtro sobre la información.
+                Grafico convención: es el que posee un panel de filtros
                 </p>
-                <ul>
-                    <li>ARP (Address Resolution PROTOCOL), utilizado para resolución de direcciones.</li>
-                    <li>FTP (File Transfer PROTOCOL), utilizado para la transferencia de archivos</li>
-                </ul>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>11. ¿Qué es alojamiento web?<h5>
+                    <h5>11. ¿Para qué sirve la validación en Excel?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
@@ -186,65 +190,27 @@
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>12. Enumere algunos de los principales web hosting.<h5>
+                    <h5>12. ¿Para qué sirven los macros en Excel?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Son.
-                </p>
-                <ul>
-                    <li>Whisper</li>
-                    <li>Vimeo</li>
-                    <li>Evernote</li>
-                </ul>
-                </div>
-            </div>
-
-            <div class="row justify-content-md-center">
-                <div class="col col-lg-12">   
-                    <h5>13. ¿De qué está compuesto un dominio?<h5>
-                </div>
-                <div class="col col-lg-12">
-                <p>
-                R// Es el nombre que identifica un sitio web, cada dominio tiene qué único en internet ejemplo: www.masadelant.com
-                </p>
-                </div>
-            </div>
-
-            
-            <div class="row justify-content-md-center">
-                <div class="col col-lg-12">   
-                    <h5>13. ¿De qué está compuesto un dominio?<h5>
-                </div>
-                <div class="col col-lg-12">
-                <p>
-                R// Es el nombre que identifica un sitio web, cada dominio tiene qué único en internet ejemplo: www.masadelant.com
-                </p>
-                </div>
-            </div>
-
-            
-            <div class="row justify-content-md-center">
-                <div class="col col-lg-12">   
-                    <h5>14. Detalle las ventajas de un hosting de paga contra uno gratuito.<h5>
-                </div>
-                <div class="col col-lg-12">
-                <p>
-                R// Solamente que es gratuito
+                R// Es la que nos ayuda a automatizar aquellas tareas que hacemos repetidamente. Una macro es una serie de instituciones que son
+                 guardadas dentro de un archivo en excel para poder ser ejecutados cuando lo necesitamos.
                 </p>
                 </div>
             </div>
 
             <div class="row justify-content-md-center">
                 <div class="col col-lg-12">   
-                    <h5>15. ¿Cómo se conoce generalmente a la configuración de donde se accede a un servicio de hosting?<h5>
+                    <h5>13. ¿Cuál es el método abreviado para ejecutar una macro en Excel?<h5>
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// se le conoce como una cuenta de correo de base de datos.
+                R// Es la permite ejecutar la macro en cualquier momento es ctrl +tecla.
                 </p>
                 </div>
             </div>
+
 
         </div>        
 
